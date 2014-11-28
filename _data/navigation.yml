@@ -1,6 +1,12 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Contact
+  url: /contact-us/
+  excerpt: "Contact"
   image:
+  
+  
+- title: About Me
+  url: /about/
+  excerpt: "All About Me!"
+  

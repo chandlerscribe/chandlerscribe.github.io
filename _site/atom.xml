@@ -7,7 +7,7 @@
     <subtitle></subtitle>
     <link href="/atom.xml" rel="self"/>
     <link href="/" rel="alternate" type="text/html"/>
-    <updated>2014-11-25T21:51:36-08:00</updated>
+    <updated>2014-11-28T08:49:22-08:00</updated>
     <id>/</id>
     <author>
 			<name></name>
@@ -15,5 +15,46 @@
 			
 		</author>
 
+    
+    <entry>
+        <title>Contact Us</title>
+        <link href="/contact-us/"/>
+        <updated>2014-11-28T08:43:07-08:00</updated>
+        <id>/contact-us</id>
+        <author>
+					<name></name>
+					<uri>/</uri>
+					
+				</author>
+        <content type="html">
+        	
+        	&lt;h2 id=&quot;we-want-to-hear-from-you&quot;&gt;We want to hear from you.&lt;/h2&gt;
+
+&lt;p&gt;We really do!&lt;/p&gt;
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>About</title>
+        <link href="/about/"/>
+        <updated>2014-11-28T08:42:55-08:00</updated>
+        <id>/about</id>
+        <author>
+					<name></name>
+					<uri>/</uri>
+					
+				</author>
+        <content type="html">
+        	
+        	&lt;h2 id=&quot;who-we-are&quot;&gt;Who We Are&lt;/h2&gt;
+
+&lt;p&gt;very focused.&lt;/p&gt;
+
+&lt;p&gt;really.&lt;/p&gt;
+
+        </content>
+    </entry>
     
 </feed>
