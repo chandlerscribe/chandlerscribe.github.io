@@ -1,0 +1,35 @@
+# Site wide configuration
+
+title: Getting a Jekyll Template Kim Likes!
+description:
+logo: # 120x120 px default image used for Twitter summary card
+teaser: yarnBus.jpg
+locale:
+url: http://chandlerscribe.github.io
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner: Richard Schave
+name: Richard Schave
+email: schavester@gmail.com
+twitter: schavester
+google: +RichardSchave
+ad-client: 
+ad-slot: 
+bio: 
+avatar: avatar-photo.jpg # 160x160 px image for author byline
+disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
